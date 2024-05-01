@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<input_tables:BIRD_NN_SLF_EMPLYD_NTRL_PRSN_LDM_Table xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:input_tables="input_tables">
+  <BIRD_NN_SLF_EMPLYD_NTRL_PRSN_LDMs Party_type_uniqueID="78451209_2018-09-30_BLZ10" PRTY_ID="78451209">
+    <parent_BIRD_PRTY_LDM href="BIRD_PRTY_LDM_Table.xmi#78451209_2018-09-30_BLZ10"/>
+  </BIRD_NN_SLF_EMPLYD_NTRL_PRSN_LDMs>
+  <BIRD_NN_SLF_EMPLYD_NTRL_PRSN_LDMs Party_type_uniqueID="BLZ10_2018-09-30_BLZ10" PRTY_RPRTNG_AGNT_ID="BLZ10" PRTY_RFRNC_DT="2018-09-30T00:00:00.000+0100" PRTY_ID="BLZ10">
+    <parent_BIRD_PRTY_LDM href="BIRD_PRTY_LDM_Table.xmi#BLZ10_2018-09-30_BLZ10"/>
+  </BIRD_NN_SLF_EMPLYD_NTRL_PRSN_LDMs>
+</input_tables:BIRD_NN_SLF_EMPLYD_NTRL_PRSN_LDM_Table>
