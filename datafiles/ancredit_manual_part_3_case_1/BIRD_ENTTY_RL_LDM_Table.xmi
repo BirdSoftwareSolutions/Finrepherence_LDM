@@ -6,4 +6,7 @@
   <BIRD_ENTTY_RL_LDMs BIRD_ENTTY_RL_LDM_uniqueID="78451209_2018-09-30_BLZ10">
     <Entity_role_type_delegate xsi:type="input_tables:BIRD_LN_DBTR_LDM" href="BIRD_LN_DBTR_LDM_Table.xmi#78451209_2018-09-30_BLZ10"/>
   </BIRD_ENTTY_RL_LDMs>
+  <BIRD_ENTTY_RL_LDMs ENTTY_RL_TYP="24" BIRD_ENTTY_RL_LDM_uniqueID="63829150_2018-09-30_BLZ10">
+    <Entity_role_type_delegate xsi:type="input_tables:BIRD_PRTCTN_PRVDR_LDM" href="BIRD_PRTCTN_PRVDR_LDM_Table.xmi#63829150_2018-09-30_BLZ10"/>
+  </BIRD_ENTTY_RL_LDMs>
 </input_tables:BIRD_ENTTY_RL_LDM_Table>
